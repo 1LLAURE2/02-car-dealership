@@ -1,0 +1,6 @@
+npm i -g @nestjs/cli
+nest new .
+
+yarn run start   / yarn start:dev
+
+
