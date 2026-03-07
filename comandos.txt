@@ -4,3 +4,5 @@ nest new .
 yarn run start   / yarn start:dev
 
 
+nest g mo cars
+nest g co cars
