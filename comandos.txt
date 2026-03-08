@@ -13,3 +13,5 @@ nest g s cars --no-spec
 ## Instalar UUID
     yarn add uuid
     yarn add -D @types/uuid
+## Instalar class-transformer
+    yarn add class-validator class-transformer
