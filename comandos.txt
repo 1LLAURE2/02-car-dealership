@@ -10,3 +10,6 @@ nest g s cars --no-spec
 
 ## Desactivar Prettier
     yarn remove prettier
+## Instalar UUID
+    yarn add uuid
+    yarn add -D @types/uuid
